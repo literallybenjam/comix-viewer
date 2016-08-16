@@ -1,0 +1,7 @@
+//  List the URLs of the comic pages in here, one per line!
+//  Lines which begin with "//" are ignored, as is whitespace.
+//
+//  Example:
+//      http://example.com/some_image.png
+//      http://example.org/image_page_2.png
+//
